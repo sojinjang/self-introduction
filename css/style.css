@@ -57,6 +57,7 @@ header {
 #profile h2{
     width: 270px;
     height: 270px;
+    -webkit-mask-image: -webkit-radial-gradient(white, black);
     border-radius: 70%;
     margin: auto;
     overflow: hidden;
